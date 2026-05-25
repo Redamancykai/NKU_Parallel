@@ -1,0 +1,17 @@
+.DS_Store
+.vscode-server/
+
+# Common build outputs
+*.o
+*.so
+*.dylib
+*.a
+*.out
+build/
+cmake-build-*/
+
+# Project-local generated binary
+/ann/main
+
+# Generated ANN indexes
+/files/

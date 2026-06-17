@@ -1,0 +1,6 @@
+cuda-redist/
+*.obj
+*.exp
+*.ilk
+*.pdb
+*.tmp
